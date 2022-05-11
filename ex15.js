@@ -1,0 +1,9 @@
+var person = "Simbillo, Emerson";
+var age = '23';
+var phone = "09773191448";
+var email = "emersonsimbillo1999@gmail.com";
+var address = "Jefmin Conception, Tarlac";
+var prog = "Information Technology";
+var id = "20193643";
+var yr = "2nd";
+var sec = "IAA2";
